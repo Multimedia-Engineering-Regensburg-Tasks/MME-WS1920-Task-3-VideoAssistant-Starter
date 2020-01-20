@@ -1,4 +1,4 @@
-# Zeite Übungsaufgabe: Video Assistant
+# Dritte Übungsaufgabe: Video Assistant
 
 Die Anleitung zur Aufgabe (*Handout*) finden Sie [hier](https://regensburger-forscher.de/mme/Aufgaben/WS19-03-Video-Assistant/). 
 
